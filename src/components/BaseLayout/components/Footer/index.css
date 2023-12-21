@@ -1,0 +1,19 @@
+.Footer {
+  height: 2em;
+  background-color: black;
+  color: black;
+  width: 10vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: garamond;
+  font-weight: lighter;
+}
+.social-links img{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+}

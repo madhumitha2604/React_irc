@@ -1,0 +1,26 @@
+.content {
+  background-color: #F9F6F6;
+}
+
+.first-header {
+  background: url('https://img.freepik.com/premium-photo/gold-gifts-boxes-with-red-satin-ribbon-bow-sparkles-beige-minimal-background_68196-2950.jpg?w=1060');
+}
+
+.second-header {
+  background: url('https://img.freepik.com/free-vector/doodle-gift-boxes-with-floating-hearts-text-space_1017-36047.jpg?w=1060&t=st=1703068769~exp=1703069369~hmac=862d664f28cb93c853adab64bf0b8265437dc4fb6759c905a5ba5e87bcc2d486');
+}
+
+.third-header {
+  background: url('https://img.freepik.com/premium-photo/happy-valentine-day-composition-white-background_185193-69422.jpg?w=1060');
+}
+
+.fourth-header {
+  background: url('https://img.freepik.com/premium-vector/merry-christmas-happy-new-year_164911-203.jpg?w=996');
+}
+
+.first-header, .second-header, .third-header, .fourth-header {
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-position: center;
+}

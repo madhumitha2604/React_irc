@@ -1,0 +1,20 @@
+.description-box {
+    flex-direction: column;
+    align-items: center;
+  justify-content: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 20px; /* Add margin for spacing */
+    text-align: center; /* Center align the content */
+  }
+  
+  /* Additional styling for the text if needed */
+  .description-box h2 {
+    color: #333;
+  }
+  
+  .description-box h3 {
+    color: #555;
+  }
